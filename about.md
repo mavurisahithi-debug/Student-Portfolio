@@ -1,7 +1,7 @@
 # About Me
 
 ## Introduction
-I am **Your Name**, a B.Tech student in Computer Science and Engineering at **Your College Name**.
+I am **CHETANA VEERA SAHITHI MAVURI**, a B.Tech student in Computer Science and Engineering at **ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY**.
 
 ## Career Objective
 To begin my career as a software developer, apply my programming and problem-solving skills, and continue learning through real-world projects.
